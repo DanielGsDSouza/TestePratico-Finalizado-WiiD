@@ -1,0 +1,25 @@
+Olá, recrutador(a)!
+Gostaria de deixar aqui meu agradecimento pela
+oportunidade dada a mim de criar este projeto.
+< ----------------------------------------------- >
+Quero também deixar em destaque o fato de quê
+eu não finalizei o projeto por completo.
+Não foi nos dado um tempo limite, e eu não 
+quis prender vocês por muitos dias neste processo.
+Quis fazer o possível com o meu tempo disponível
+e conhecimento adquirido.
+< ----------------------------------------------- >
+Outro destaque é pelo fato de eu ter feito todo
+o projeto em HTML, CSS e JavaScript puro. Isso, é
+claro, fez com que o processo e o tempo de produção
+ficasse ainda maior e mais complexo, mas era necessário 
+para mim, já que ainda não tenho conhecimento 
+nos FrameWorks 'VueJS' e 'ReactJS'.
+Mesmo sem esse conhecimento, quis mostrar meu trabalho
+da melhor forma possível.
+< ------------------------------------------------------ >
+Estou me candidatando a vaga como Estagiário, e apesar
+de não ter grandes experiências, me sinto preparado para
+evoluir e contribuir como profissional.
+
+Muito obrigado! Fico à sua disposição. - Daniel Gomes de Souza
